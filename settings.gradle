@@ -1,1 +1,1 @@
-include ':p0571gridview', ':p0581timepickerdialog', ':p0591datepickerdialog'
+include ':p0571gridview', ':p0581timepickerdialog', ':p0591datepickerdialog', ':p0601alertdialogsimple'
