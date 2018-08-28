@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$/p0581timepickerdialog" />
             <option value="$PROJECT_DIR$/p0591datepickerdialog" />
             <option value="$PROJECT_DIR$/p0601alertdialogsimple" />
+            <option value="$PROJECT_DIR$/p0611alertdialogprepare" />
+            <option value="$PROJECT_DIR$/p0621alertdialogitem" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
