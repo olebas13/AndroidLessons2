@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/p0621alertdialogitem" />
             <option value="$PROJECT_DIR$/p0661alertdialogoperations" />
             <option value="$PROJECT_DIR$/p0671progressdialog" />
+            <option value="$PROJECT_DIR$/p0701saveinstancestate" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
