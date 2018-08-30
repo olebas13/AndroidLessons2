@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/p0701saveinstancestate" />
             <option value="$PROJECT_DIR$/p0711preferencessimple" />
             <option value="$PROJECT_DIR$/p0721preferencessimple2" />
+            <option value="$PROJECT_DIR$/p0751files" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
