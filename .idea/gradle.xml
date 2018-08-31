@@ -24,6 +24,7 @@
             <option value="$PROJECT_DIR$/p0771tabintent" />
             <option value="$PROJECT_DIR$/p0791xmlpullparser" />
             <option value="$PROJECT_DIR$/p0801handler" />
+            <option value="$PROJECT_DIR$/p0811handlersimplemessage" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
