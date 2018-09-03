@@ -26,6 +26,7 @@
             <option value="$PROJECT_DIR$/p0801handler" />
             <option value="$PROJECT_DIR$/p0811handlersimplemessage" />
             <option value="$PROJECT_DIR$/p0821handleradvmessage" />
+            <option value="$PROJECT_DIR$/p0831handlermessagemanage" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
