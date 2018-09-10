@@ -31,6 +31,8 @@
             <option value="$PROJECT_DIR$/p0851runnableuithread" />
             <option value="$PROJECT_DIR$/p0861asynctask" />
             <option value="$PROJECT_DIR$/p0871asynctaskparams" />
+            <option value="$PROJECT_DIR$/p0881asynctaskresult" />
+            <option value="$PROJECT_DIR$/p0891asynctaskcancel" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
