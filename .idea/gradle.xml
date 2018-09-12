@@ -35,6 +35,7 @@
             <option value="$PROJECT_DIR$/p0891asynctaskcancel" />
             <option value="$PROJECT_DIR$/p0911asynctaskrotate" />
             <option value="$PROJECT_DIR$/p0921servicesimple" />
+            <option value="$PROJECT_DIR$/p0931servicestop" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
