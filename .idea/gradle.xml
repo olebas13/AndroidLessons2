@@ -38,6 +38,8 @@
             <option value="$PROJECT_DIR$/p0931servicestop" />
             <option value="$PROJECT_DIR$/p1021touch" />
             <option value="$PROJECT_DIR$/p1041fragmentlifecycle" />
+            <option value="$PROJECT_DIR$/p1051fragmentdynamic" />
+            <option value="$PROJECT_DIR$/p1061fragmentactivity" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
