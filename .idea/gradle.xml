@@ -41,6 +41,7 @@
             <option value="$PROJECT_DIR$/p1051fragmentdynamic" />
             <option value="$PROJECT_DIR$/p1061fragmentactivity" />
             <option value="$PROJECT_DIR$/p1071actionbaritems" />
+            <option value="$PROJECT_DIR$/p1101dialogfragment" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
